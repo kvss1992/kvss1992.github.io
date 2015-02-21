@@ -1,15 +1,15 @@
-timezone: Asia/Calcutta
+timezone: Canada/Montreal
 permalink: :title
 
 markdown: kramdown
 
 author:
-  name: Vaibhav Kanwal
-  email: vaibhav.kanwal@gmail.com
+  name: Karanvir Sawhney
+  email: Kvss1992@gmail.com
 
 # Custom URL Git Repo URL
 baseurl: ''
-url: http://vaibhavkanwal.com
+url: http://kvss1992.github.io/
 
 # Localhost Repo URL
 # baseurl: ''
