@@ -346,8 +346,11 @@ footer p{
 }
 
 .showcase__image{
-	float:left;
-	width:33.333%;
+	/* float:left; */
+	width:65%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto
 }
 
 @media (min-width: 1180px){
